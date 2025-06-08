@@ -1,4 +1,4 @@
-# parsing https://www.youtube.com/@{login}/videos
+# parsing youtube.com🗡️@{login}🗡️videos
 
 🌵 small parsing chanel YouTube
 
